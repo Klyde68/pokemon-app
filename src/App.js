@@ -7,6 +7,7 @@ import PokemonList from './components/PokemonList'
 import CapturedPokemons from './components/CapturedPokemons'
 import { PokemonProvider } from './context/PokemonContext';
 
+// My name is Clyde Mealy
 function App() {
   return (
     <PokemonProvider>
